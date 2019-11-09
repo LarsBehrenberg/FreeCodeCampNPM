@@ -1,1 +1,1 @@
-# FreeCodeCampNPM
+# Backend Challenges boilerplate - package.json
